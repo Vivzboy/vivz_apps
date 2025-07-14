@@ -1,0 +1,37 @@
+{
+  "scraped_sample": {
+    "price": 4300000,
+    "bedrooms": 3,
+    "size_sqm": 118,
+    "type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/115916958?plId=2080963&plt=2&plsIds=2108550",
+    "images": [
+      "https://images.prop24.com/356228667/Crop525x350",
+      "https://images.prop24.com/305274001/Ensure450x261",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "title": "3 Bedroom Apartment",
+    "area": "sea-point",
+    "selector_used": "div[class*=\"listing\"]"
+  },
+  "transformed_sample": {
+    "title": "3 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 4300000,
+    "bedrooms": 3,
+    "size_sqm": 118,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/115916958?plId=2080963&plt=2&plsIds=2108550",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/356228667/Crop525x350",
+      "https://images.prop24.com/305274001/Ensure450x261",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  "transformation_check": {
+    "scraped_has_images": true,
+    "transformed_has_images": true
+  }
+}

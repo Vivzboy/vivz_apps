@@ -1,0 +1,2458 @@
+[
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 6195300,
+    "bedrooms": 2,
+    "size_sqm": 85,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/113548960?plId=2078886&plt=2&plsIds=2106649",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/346622081/Crop525x350",
+      "https://images.prop24.com/354748341/Ensure450x261",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Development",
+    "area": "sea-point",
+    "property_type": "Development",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/356237996/Crop690x220"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 6195300,
+    "bedrooms": 2,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 10600000,
+    "bedrooms": 3,
+    "size_sqm": 179,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116055816?plId=2086362&plt=3&plsIds=2113768",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/216111620/Ensure528x153",
+      "https://images.prop24.com/358558736/Crop526x328",
+      "https://images.prop24.com/358558737/Crop526x328",
+      "https://images.prop24.com/358558738/Crop526x328",
+      "https://images.prop24.com/358558739/Crop526x328"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 10600000,
+    "bedrooms": 3,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 7500000,
+    "bedrooms": 2,
+    "size_sqm": 85,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116107794?plId=2086358&plt=3&plsIds=2113765",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/216111620/Ensure528x153",
+      "https://images.prop24.com/357248079/Crop526x328",
+      "https://images.prop24.com/359421958/Crop526x328",
+      "https://images.prop24.com/359421959/Crop526x328",
+      "https://images.prop24.com/357248035/Crop526x328"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 7500000,
+    "bedrooms": 2,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom House",
+    "area": "sea-point",
+    "price": 10000000,
+    "bedrooms": 3,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116161357?plId=2086214&plt=3&plsIds=2113638",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/309683781/Ensure528x153",
+      "https://images.prop24.com/360356564/Crop526x328",
+      "https://images.prop24.com/360356566/Crop526x328",
+      "https://images.prop24.com/360356567/Crop526x328",
+      "https://images.prop24.com/360356544/Crop526x328"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 9850000,
+    "bedrooms": 2,
+    "size_sqm": 99,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116181091?plId=2085917&plt=3&plsIds=2113356",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/188782398/Ensure264x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 9850000,
+    "bedrooms": 2,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 5300000,
+    "bedrooms": 2,
+    "size_sqm": 129,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116101986?plId=2085884&plt=3&plsIds=2113317",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/214224591/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 5300000,
+    "bedrooms": 2,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 9450000,
+    "bedrooms": 3,
+    "size_sqm": 155,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/115971474?plId=2085886&plt=3&plsIds=2113319",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/214224591/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 9450000,
+    "bedrooms": 3,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 7800000,
+    "bedrooms": 2,
+    "size_sqm": 92,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116161935?plId=2085850&plt=3&plsIds=2113283",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/354748280/Ensure264x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 7800000,
+    "bedrooms": 2,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "Apartment",
+    "area": "sea-point",
+    "price": 2995000,
+    "size_sqm": 32,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116154749?plId=2085853&plt=3&plsIds=2113287",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/354748280/Ensure264x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Apartment",
+    "area": "sea-point",
+    "price": 2995000,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 12900000,
+    "bedrooms": 2,
+    "size_sqm": 111,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116035881?plId=2085806&plt=3&plsIds=2113239",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/305274002/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 12900000,
+    "bedrooms": 2,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 17950000,
+    "bedrooms": 3,
+    "size_sqm": 131,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/115955408?plId=2081059&plt=3&plsIds=2108665",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/277408382/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 17950000,
+    "bedrooms": 3,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 7400000,
+    "bedrooms": 2,
+    "size_sqm": 97,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/115900414?plId=2079193&plt=3&plsIds=2106905",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/214224591/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 7400000,
+    "bedrooms": 2,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 27500000,
+    "bedrooms": 3,
+    "size_sqm": 396,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/109775783",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/202882836/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Sea Views"
+    ]
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 3000000,
+    "bedrooms": 1,
+    "size_sqm": 63,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116172774",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/329458126/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 3195000,
+    "bedrooms": 5,
+    "size_sqm": 38,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116172872",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/188782398/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 2650000,
+    "bedrooms": 1,
+    "size_sqm": 54,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116120682",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/341773167/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 3950000,
+    "bedrooms": 5,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116188921?plId=2085039&plt=4&plsIds=2112481",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/345067931/Ensure528x153",
+      "https://images.prop24.com/359526824/Crop204x306",
+      "https://www.property24.com/blank.gif"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 5990000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqm": 137,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116174884",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/188189700/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 5200000,
+    "bedrooms": 2,
+    "size_sqm": 89,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116184401",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305273954/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 19000000,
+    "bedrooms": 4,
+    "size_sqm": 270,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116060348",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305273954/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Apartment",
+    "area": "sea-point",
+    "price": 3450000,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/356237996/Crop690x220"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 4100000,
+    "bedrooms": 2,
+    "size_sqm": 73,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/foreshore/cape-town/western-cape/9143/115239591?plId=2084817&plt=2&plsIds=2112280",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/346344321/Crop525x350",
+      "https://images.prop24.com/344946448/Ensure450x261",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Development",
+    "area": "sea-point",
+    "property_type": "Development",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/360268305/Crop690x220"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 4100000,
+    "bedrooms": 2,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 2350000,
+    "bedrooms": 5,
+    "size_sqm": 23,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116173602",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/360451463/Crop600x400",
+      "https://images.prop24.com/188782398/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 2395000,
+    "bedrooms": 1,
+    "size_sqm": 25,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116193262",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/360901883/Crop600x400",
+      "https://images.prop24.com/305273954/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Furnished"
+    ]
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 3150000,
+    "bedrooms": 1,
+    "size_sqm": 52,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116186722",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/323718448/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Balcony"
+    ]
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 4000000,
+    "bedrooms": 2,
+    "size_sqm": 89,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116125830",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/233852929/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 2550000,
+    "bedrooms": 1,
+    "size_sqm": 53,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116136898",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/341773167/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 2895000,
+    "bedrooms": 5,
+    "size_sqm": 37,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116172421",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/188782398/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom House",
+    "area": "sea-point",
+    "price": 7995000,
+    "bedrooms": 2,
+    "size_sqm": 179,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116169462",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": [
+      "Balcony"
+    ]
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 7995000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqm": 120,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116169647",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Parking"
+    ]
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 12995000,
+    "bedrooms": 3,
+    "size_sqm": 155,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116143366",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305638802/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 4900000,
+    "bedrooms": 5,
+    "size_sqm": 95,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116154487",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Listing/listed_by_owner.png?z=ff268991a6618313cc39",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Sea Views"
+    ]
+  },
+  {
+    "title": "5 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 2095000,
+    "bedrooms": 5,
+    "size_sqm": 23,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116166950",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/188782398/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 4500000,
+    "bedrooms": 1,
+    "size_sqm": 88,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/113666711",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305273954/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 22750000,
+    "bedrooms": 3,
+    "size_sqm": 308,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116154434",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/72874115/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 3950000,
+    "bedrooms": 2,
+    "size_sqm": 87,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116179805",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/341773167/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 2595000,
+    "bedrooms": 5,
+    "size_sqm": 25,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116187825",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/354910848/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Furnished"
+    ]
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "sea-point",
+    "price": 5000000,
+    "bedrooms": 2,
+    "size_sqm": 92,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116157653",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/281704315/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Apartment",
+    "area": "sea-point",
+    "price": 1895000,
+    "size_sqm": 26,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116146637",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305273954/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Garden"
+    ]
+  },
+  {
+    "title": "Apartment",
+    "area": "sea-point",
+    "price": 3100000,
+    "size_sqm": 32,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/sea-point/cape-town/western-cape/11021/116173330",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/354748280/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Apartment",
+    "area": "sea-point",
+    "price": 10750000,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/360268305/Crop690x220"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "6 Bedroom House",
+    "area": "camps-bay",
+    "price": 34995000,
+    "bedrooms": 6,
+    "size_sqm": 595,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115161103?plId=2082982&plt=2&plsIds=2110407",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/346086585/Crop525x350",
+      "https://images.prop24.com/213778188/Ensure450x261",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Development",
+    "area": "camps-bay",
+    "property_type": "Development",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/355491390/Crop690x220"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "6 Bedroom House",
+    "area": "camps-bay",
+    "price": 34995000,
+    "bedrooms": 6,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom House",
+    "area": "camps-bay",
+    "price": 13995000,
+    "bedrooms": 3,
+    "size_sqm": 403,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115657752?plId=2086328&plt=3&plsIds=2113735",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/216111620/Ensure528x153",
+      "https://images.prop24.com/352359319/Crop526x328",
+      "https://images.prop24.com/352359303/Crop526x328",
+      "https://images.prop24.com/352359277/Crop526x328",
+      "https://images.prop24.com/352359278/Crop526x328"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom House",
+    "area": "camps-bay",
+    "price": 13995000,
+    "bedrooms": 3,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "7 Bedroom House",
+    "area": "camps-bay",
+    "price": 45000000,
+    "bedrooms": 7,
+    "size_sqm": 898,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/114205470?plId=2086330&plt=3&plsIds=2113736",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/216111620/Ensure528x153",
+      "https://images.prop24.com/330037814/Crop526x328",
+      "https://images.prop24.com/330037813/Crop526x328",
+      "https://images.prop24.com/330037815/Crop526x328",
+      "https://images.prop24.com/330037816/Crop526x328"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "7 Bedroom House",
+    "area": "camps-bay",
+    "price": 45000000,
+    "bedrooms": 7,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 69000000,
+    "bedrooms": 4,
+    "size_sqm": 818,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/112061285?plId=2086331&plt=3&plsIds=2113738",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/216111620/Ensure528x153",
+      "https://images.prop24.com/296485384/Crop526x328",
+      "https://images.prop24.com/355812512/Crop526x328",
+      "https://images.prop24.com/355812513/Crop526x328",
+      "https://images.prop24.com/355812514/Crop526x328"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 69000000,
+    "bedrooms": 4,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "12 Bedroom House",
+    "area": "camps-bay",
+    "price": 19900000,
+    "bedrooms": 12,
+    "size_sqm": 595,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116027353?plId=2084982&plt=3&plsIds=2112427",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/354748280/Ensure264x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "12 Bedroom House",
+    "area": "camps-bay",
+    "price": 19900000,
+    "bedrooms": 12,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "7 Bedroom House",
+    "area": "camps-bay",
+    "price": 32500000,
+    "bedrooms": 7,
+    "size_sqm": 524,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115437552?plId=2081714&plt=3&plsIds=2109215",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/305274002/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "7 Bedroom House",
+    "area": "camps-bay",
+    "price": 32500000,
+    "bedrooms": 7,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "camps-bay",
+    "price": 28750000,
+    "bedrooms": 3,
+    "size_sqm": 222,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116131395?plId=2081063&plt=3&plsIds=2108673",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/277408382/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "camps-bay",
+    "price": 28750000,
+    "bedrooms": 3,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "camps-bay",
+    "price": 15995000,
+    "bedrooms": 3,
+    "size_sqm": 144,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115987777?plId=2081061&plt=3&plsIds=2108667",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/277408382/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "camps-bay",
+    "price": 15995000,
+    "bedrooms": 3,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 39950000,
+    "bedrooms": 4,
+    "size_sqm": 304,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115931780?plId=2081051&plt=3&plsIds=2108658",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/305274002/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 39950000,
+    "bedrooms": 4,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom House",
+    "area": "camps-bay",
+    "price": 18000000,
+    "bedrooms": 5,
+    "size_sqm": 669,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116112234?plId=2080429&plt=3&plsIds=2108065",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/242461179/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom House",
+    "area": "camps-bay",
+    "price": 18000000,
+    "bedrooms": 5,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom House",
+    "area": "camps-bay",
+    "price": 16850000,
+    "bedrooms": 5,
+    "size_sqm": 595,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115510023?plId=2080407&plt=3&plsIds=2108046",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/242461179/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom House",
+    "area": "camps-bay",
+    "price": 16850000,
+    "bedrooms": 5,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 26900000,
+    "bedrooms": 4,
+    "size_sqm": 254,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115851489?plId=2078366&plt=3&plsIds=2106124",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/305274002/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 26900000,
+    "bedrooms": 4,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom House",
+    "area": "camps-bay",
+    "price": 15995000,
+    "bedrooms": 5,
+    "size_sqm": 120,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116130163?plId=2067227&plt=4&plsIds=2095718",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/213885973/Ensure528x153",
+      "https://images.prop24.com/358756416/Crop204x306",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": [
+      "Mountain Views"
+    ]
+  },
+  {
+    "title": "6 Bedroom House",
+    "area": "camps-bay",
+    "price": 39999990,
+    "bedrooms": 6,
+    "size_sqm": 126,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116161536",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/341773167/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 16200000,
+    "bedrooms": 4,
+    "size_sqm": 778,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116184727",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305273954/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Property",
+    "area": "camps-bay",
+    "price": 14995000,
+    "size_sqm": 719,
+    "property_type": "Property",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116166026",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/206466645/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": [
+      "Sea Views"
+    ]
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "camps-bay",
+    "price": 23500000,
+    "bedrooms": 3,
+    "size_sqm": 399,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115926370",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/318662228/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "11 Bedroom House",
+    "area": "camps-bay",
+    "price": 42950000,
+    "bedrooms": 11,
+    "size_sqm": 860,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/114679429",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/340146631/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom House",
+    "area": "camps-bay",
+    "price": 21500000,
+    "bedrooms": 3,
+    "size_sqm": 795,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/111433372",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305273954/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "camps-bay",
+    "price": 19999000,
+    "bedrooms": 3,
+    "size_sqm": 380,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116169715",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/276704044/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "7 Bedroom House",
+    "area": "camps-bay",
+    "price": 18950000,
+    "bedrooms": 7,
+    "size_sqm": 820,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116123469",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305273954/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "House",
+    "area": "camps-bay",
+    "price": 26500000,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/355491390/Crop690x220",
+      "https://images.prop24.com/354748280/Ensure264x153",
+      "https://images.prop24.com/355491389/Fit306x153"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Property",
+    "area": "camps-bay",
+    "price": 14995000,
+    "size_sqm": 719,
+    "property_type": "Property",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116166026?plId=2082976&plt=2&plsIds=2110400",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/360434749/Crop525x350",
+      "https://images.prop24.com/213778188/Ensure450x261",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Development",
+    "area": "camps-bay",
+    "property_type": "Development",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/355491390/Crop690x220"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Property",
+    "area": "camps-bay",
+    "price": 14995000,
+    "property_type": "Property",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom House",
+    "area": "camps-bay",
+    "price": 20999999,
+    "bedrooms": 3,
+    "size_sqm": 166,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116023841",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/358601725/Crop600x400",
+      "https://images.prop24.com/281704315/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Furnished"
+    ]
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 69000000,
+    "bedrooms": 4,
+    "size_sqm": 817,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116091075",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/359150921/Crop600x400",
+      "https://images.prop24.com/309683600/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "camps-bay",
+    "price": 4800000,
+    "bedrooms": 1,
+    "size_sqm": 77,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115833192",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/354945960/Crop600x400",
+      "https://images.prop24.com/318662228/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "12 Bedroom House",
+    "area": "camps-bay",
+    "price": 19900000,
+    "bedrooms": 12,
+    "size_sqm": 595,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/114724650",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/72874115/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "camps-bay",
+    "price": 5500000,
+    "bedrooms": 1,
+    "size_sqm": 89,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115931113",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/103291119/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 36000000,
+    "bedrooms": 4,
+    "size_sqm": 43,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116101808",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/242461081/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": [
+      "Mountain Views"
+    ]
+  },
+  {
+    "title": "5 Bedroom House",
+    "area": "camps-bay",
+    "price": 15000000,
+    "bedrooms": 5,
+    "size_sqm": 752,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115783554",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/103291119/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "camps-bay",
+    "price": 9999000,
+    "bedrooms": 1,
+    "size_sqm": 120,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116089407",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/276704044/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom House",
+    "area": "camps-bay",
+    "price": 18000000,
+    "bedrooms": 5,
+    "size_sqm": 689,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/116098332",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/230639607/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": [
+      "Furnished"
+    ]
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 34000000,
+    "bedrooms": 4,
+    "size_sqm": 706,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115547197",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305638802/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom House",
+    "area": "camps-bay",
+    "price": 13995000,
+    "bedrooms": 3,
+    "size_sqm": 403,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/113337456",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/277408281/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 21950000,
+    "bedrooms": 4,
+    "size_sqm": 495,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115858518",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/234925090/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 29900000,
+    "bedrooms": 4,
+    "size_sqm": 2,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115873052",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/242461081/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Property",
+    "area": "camps-bay",
+    "price": 50000000,
+    "size_sqm": 883,
+    "property_type": "Property",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115732656",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Listing/listed_by_owner.png?z=ff268991a6618313cc39",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 27500000,
+    "bedrooms": 4,
+    "size_sqm": 959,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115978385",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/276704044/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "6 Bedroom House",
+    "area": "camps-bay",
+    "price": 21495000,
+    "bedrooms": 6,
+    "size_sqm": 787,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115952096",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/242461081/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "6 Bedroom House",
+    "area": "camps-bay",
+    "price": 64999000,
+    "bedrooms": 6,
+    "size_sqm": 156,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115270350",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/342439099/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 26900000,
+    "bedrooms": 4,
+    "size_sqm": 963,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115853458",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/206466645/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": [
+      "Sea Views"
+    ]
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "camps-bay",
+    "price": 12995000,
+    "bedrooms": 4,
+    "size_sqm": 184,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/camps-bay/cape-town/western-cape/11014/115871881",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/206466645/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "House",
+    "area": "camps-bay",
+    "price": 26500000,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/355491390/Crop690x220",
+      "https://images.prop24.com/354748280/Ensure264x153",
+      "https://images.prop24.com/355491389/Fit306x153"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 4100000,
+    "bedrooms": 2,
+    "size_sqm": 73,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/foreshore/cape-town/western-cape/9143/115239591?plId=2084817&plt=2&plsIds=2112281",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/346344321/Crop525x350",
+      "https://images.prop24.com/344946448/Ensure450x261",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Development",
+    "area": "green-point",
+    "property_type": "Development",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/356334882/Crop690x220"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 4100000,
+    "bedrooms": 2,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 7400000,
+    "bedrooms": 2,
+    "size_sqm": 93,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/114122633?plId=2085885&plt=3&plsIds=2113318",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/214224591/Ensure528x153",
+      "https://images.prop24.com/348114979/Crop526x328",
+      "https://images.prop24.com/348114977/Crop526x328",
+      "https://images.prop24.com/348114978/Crop526x328",
+      "https://images.prop24.com/348114980/Crop526x328"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 7400000,
+    "bedrooms": 2,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "green-point",
+    "price": 14250000,
+    "bedrooms": 3,
+    "size_sqm": 150,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116188389?plId=2085888&plt=3&plsIds=2113322",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/214224591/Ensure528x153",
+      "https://images.prop24.com/356039128/Crop526x328",
+      "https://images.prop24.com/356039123/Crop526x328",
+      "https://images.prop24.com/356039127/Crop526x328",
+      "https://images.prop24.com/356039124/Crop526x328"
+    ],
+    "highlights": [
+      "Sea Views"
+    ]
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "green-point",
+    "price": 14250000,
+    "bedrooms": 3,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom House",
+    "area": "green-point",
+    "price": 10500000,
+    "bedrooms": 3,
+    "size_sqm": 246,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116119899?plId=2078482&plt=3&plsIds=2106278",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/297664839/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom House",
+    "area": "green-point",
+    "price": 10500000,
+    "bedrooms": 3,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "green-point",
+    "price": 13990000,
+    "bedrooms": 3,
+    "size_sqm": 207,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/115904493?plId=2085889&plt=3&plsIds=2113323",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/214224591/Ensure528x153",
+      "https://images.prop24.com/356039122/Crop526x328",
+      "https://images.prop24.com/356039123/Crop526x328",
+      "https://images.prop24.com/356039124/Crop526x328",
+      "https://images.prop24.com/356039125/Crop526x328"
+    ],
+    "highlights": [
+      "Sea Views"
+    ]
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "green-point",
+    "price": 13990000,
+    "bedrooms": 3,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "Property",
+    "area": "green-point",
+    "price": 26950000,
+    "size_sqm": 349,
+    "property_type": "Property",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/113779344?plId=2081403&plt=3&plsIds=2108961",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/304740497/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Property",
+    "area": "green-point",
+    "price": 26950000,
+    "property_type": "Property",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom House",
+    "area": "green-point",
+    "price": 17950000,
+    "bedrooms": 5,
+    "size_sqm": 444,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/115536863?plId=2078480&plt=3&plsIds=2106274",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/297664839/Ensure528x153",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom House",
+    "area": "green-point",
+    "price": 17950000,
+    "bedrooms": 5,
+    "property_type": "House",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 4250000,
+    "bedrooms": 2,
+    "size_sqm": 95,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116162451?plId=2086551&plt=4&plsIds=2113947",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/315145434/Ensure528x153",
+      "https://images.prop24.com/304541179/Crop204x306",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Parking",
+      "Balcony"
+    ]
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 4950000,
+    "bedrooms": 2,
+    "size_sqm": 82,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116059401",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/103291119/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom House",
+    "area": "green-point",
+    "price": 13500000,
+    "bedrooms": 5,
+    "size_sqm": 505,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116190239",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/206466645/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 5995000,
+    "bedrooms": 2,
+    "size_sqm": 126,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116111198",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/318662228/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "green-point",
+    "price": 10500000,
+    "bedrooms": 4,
+    "size_sqm": 246,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116165254",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305638802/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Apartment",
+    "area": "green-point",
+    "price": 1800000,
+    "size_sqm": 20,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/115748956?plId=2077416&plt=4&plsIds=2105203",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/214301327/Ensure528x153",
+      "https://images.prop24.com/359536942/Crop204x306",
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "green-point",
+    "price": 3200000,
+    "bedrooms": 1,
+    "size_sqm": 67,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/115988722",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/344062982/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Balcony"
+    ]
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "green-point",
+    "price": 7695000,
+    "bedrooms": 4,
+    "size_sqm": 335,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/113796643",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/341773167/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 7500000,
+    "bedrooms": 2,
+    "size_sqm": 125,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116048133",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/268912312/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom House",
+    "area": "green-point",
+    "price": 5995000,
+    "bedrooms": 2,
+    "size_sqm": 133,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116159420",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 5295000,
+    "bedrooms": 2,
+    "size_sqm": 78,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116184758",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/309683600/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Furnished"
+    ]
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 4195000,
+    "bedrooms": 2,
+    "size_sqm": 190,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116104608",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/206466645/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Garden"
+    ]
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 3995000,
+    "bedrooms": 2,
+    "size_sqm": 84,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116014037",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://www.property24.com/Content/images/Optimized/Listing/listed_by_owner.png?z=ff268991a6618313cc39",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 5995000,
+    "bedrooms": 2,
+    "size_sqm": 81,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116114901",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/233852929/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Garden"
+    ]
+  },
+  {
+    "title": "Apartment",
+    "area": "green-point",
+    "price": 13490000,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/356334882/Crop690x220"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom Apartment",
+    "area": "green-point",
+    "price": 33500000,
+    "bedrooms": 4,
+    "size_sqm": 545,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116106858?plId=2082960&plt=2&plsIds=2110385",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/359869800/Crop525x350",
+      "https://images.prop24.com/213778188/Ensure450x261",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Development",
+    "area": "green-point",
+    "property_type": "Development",
+    "selector_used": "div[class*=\"listing\"]",
+    "images": [
+      "https://images.prop24.com/358725747/Crop690x220"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom Apartment",
+    "area": "green-point",
+    "price": 33500000,
+    "bedrooms": 4,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "green-point",
+    "price": 3995000,
+    "bedrooms": 1,
+    "size_sqm": 47,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116159307",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/360317914/Crop600x400",
+      "https://images.prop24.com/309683600/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "4 Bedroom House",
+    "area": "green-point",
+    "price": 7500000,
+    "bedrooms": 4,
+    "size_sqm": 384,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116130337",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/359815875/Crop600x400",
+      "https://images.prop24.com/269018999/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "5 Bedroom Apartment",
+    "area": "green-point",
+    "price": 2850000,
+    "bedrooms": 5,
+    "size_sqm": 41,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116094501",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/359211493/Crop600x400",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Furnished"
+    ]
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 14750000,
+    "bedrooms": 2,
+    "size_sqm": 145,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116090747",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/269018999/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 7000000,
+    "bedrooms": 2,
+    "size_sqm": 119,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/115962831",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/72874115/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "green-point",
+    "price": 2950000,
+    "bedrooms": 1,
+    "size_sqm": 44,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116085926",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305273954/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Apartment",
+    "area": "green-point",
+    "price": 2650000,
+    "size_sqm": 40,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116121499",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305273954/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 4500000,
+    "bedrooms": 2,
+    "size_sqm": 118,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/115883747",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/225270000/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "green-point",
+    "price": 6750000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size_sqm": 104,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116015864",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/242461081/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Garden"
+    ]
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 3495000,
+    "bedrooms": 2,
+    "size_sqm": 82,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116077121",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/180501115/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "green-point",
+    "price": 3450000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size_sqm": 76,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116087012",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/166374785/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Parking"
+    ]
+  },
+  {
+    "title": "3 Bedroom Apartment",
+    "area": "green-point",
+    "price": 31625000,
+    "bedrooms": 3,
+    "size_sqm": 366,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116070369",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305273954/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [],
+    "neighborhood_vibe": "Walking distance to amenities"
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 3650000,
+    "bedrooms": 2,
+    "size_sqm": 63,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116075377",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/323718448/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 4600000,
+    "bedrooms": 2,
+    "size_sqm": 84,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116099667",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/305273954/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "green-point",
+    "price": 3400000,
+    "bedrooms": 1,
+    "size_sqm": 70,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/109638183",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/221043308/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": [
+      "Garden"
+    ],
+    "neighborhood_vibe": "Walking distance to amenities"
+  },
+  {
+    "title": "5 Bedroom House",
+    "area": "green-point",
+    "price": 22000000,
+    "bedrooms": 5,
+    "size_sqm": 605,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/116026418",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/269018999/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "2 Bedroom Apartment",
+    "area": "green-point",
+    "price": 11000000,
+    "bedrooms": 2,
+    "size_sqm": 195,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/115999313",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/322138770/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "1 Bedroom Apartment",
+    "area": "green-point",
+    "price": 3295000,
+    "bedrooms": 1,
+    "size_sqm": 49,
+    "property_type": "Apartment",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/115988115",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/323718448/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_floor_new.svg?z=6469c3498bc6c7f3625f"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "3 Bedroom House",
+    "area": "green-point",
+    "price": 9950000,
+    "bedrooms": 3,
+    "size_sqm": 350,
+    "property_type": "House",
+    "url": "https://www.property24.com/for-sale/green-point/cape-town/western-cape/11017/115825266",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://www.property24.com/blank.gif",
+      "https://images.prop24.com/206466645/Ensure264x153",
+      "https://www.property24.com/Content/images/Optimized/Icons/icon_erf_new.svg?z=39eb1f3e5c6b14ca6543"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Apartment",
+    "area": "green-point",
+    "price": 5500000,
+    "property_type": "Apartment",
+    "selector_used": "div[class*=\"p24_\"]",
+    "images": [
+      "https://images.prop24.com/358725747/Crop690x220"
+    ],
+    "highlights": []
+  }
+]
