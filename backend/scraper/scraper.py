@@ -107,7 +107,7 @@ class Property24Scraper:
                     seen.add(img)
                     unique_images.append(img)
             
-            return unique_images[:5]  # Limit to 5 images per property
+            return unique_images[3:20]  # Limit to 5 images per property
             
         except Exception as e:
             logger.debug(f"Error extracting images: {e}")

@@ -109,18 +109,27 @@ const PROPERTY_STATUS = {
 };
 
 // Filter configurations
-const STATUS_FILTERS = [
-  { id: 'available', label: '🟢 Available', active: false },
-  { id: 'under_offer', label: '🟡 Under Offer', active: false },
-  { id: 'sold', label: '🔴 Recently Sold', active: false },
-  { id: 'off_market', label: '⚫ Off Market', active: false }
+const LIFESTYLE_FILTERS = [
+  { id: 'beach_walk', label: '🏖️ Beach Walking', areas: ['sea-point', 'camps-bay', 'clifton'], active: false },
+  { id: 'coffee_scene', label: '☕ Great Coffee', areas: ['sea-point', 'green-point', 'de-waterkant'], active: false },
+  { id: 'family_friendly', label: '👨‍👩‍👧 Family Area', areas: ['gardens', 'oranjezicht', 'vredehoek'], active: false },
+  { id: 'nightlife', label: '🌃 Vibrant Scene', areas: ['green-point', 'de-waterkant', 'sea-point'], active: false },
+  { id: 'mountain_views', label: '⛰️ Mountain Views', areas: ['gardens', 'oranjezicht', 'tamboerskloof'], active: false },
+  { id: 'pet_friendly', label: '🐕 Pet Paradise', areas: ['sea-point', 'green-point', 'gardens'], active: false }
 ];
 
 const BUDGET_FILTERS = [
-  { id: 'under_1m', label: '💰 Under R1M', value: { max_price: 1000000 }, active: false },
-  { id: 'under_2m', label: '💰 Under R2M', value: { max_price: 2000000 }, active: false },
-  { id: 'under_3m', label: '💰 Under R3M', value: { max_price: 3000000 }, active: false },
-  { id: 'luxury', label: '💎 Luxury (R3M+)', value: { min_price: 3000000 }, active: false }
+  { id: 'starter', label: '🌱 Starter Homes', value: { max_price: 1500000 }, active: false },
+  { id: 'upgrade', label: '📈 Upgrade Ready', value: { min_price: 1500000, max_price: 3000000 }, active: false },
+  { id: 'investment', label: '💎 Investment Grade', value: { min_price: 2000000, max_price: 5000000 }, active: false },
+  { id: 'luxury', label: '🏰 Dream Homes', value: { min_price: 5000000 }, active: false }
+];
+
+const PROPERTY_TYPE_FILTERS = [
+  { id: 'apartment', label: '🏢 Apartments', type: 'Apartment', active: false },
+  { id: 'house', label: '🏡 Houses', type: 'House', active: false },
+  { id: 'penthouse', label: '🌆 Penthouses', search: 'penthouse', active: false },
+  { id: 'character', label: '🏛️ Character Homes', search: 'character victorian', active: false }
 ];
 
 // Property Card Component with Backend Integration
@@ -617,10 +626,17 @@ const PropertyDiscoveryApp = () => {
   const [favorites, setFavorites] = useState(new Set());
   const [compareList, setCompareList] = useState([]);
   const [showFilters, setShowFilters] = useState(false);
-  const [statusFilters, setStatusFilters] = useState(STATUS_FILTERS);
+  const [lifestyleFilters, setLifestyleFilters] = useState(LIFESTYLE_FILTERS);
   const [budgetFilters, setBudgetFilters] = useState(BUDGET_FILTERS);
+  const [propertyTypeFilters, setPropertyTypeFilters] = useState(PROPERTY_TYPE_FILTERS);
   const [searchQuery, setSearchQuery] = useState('');
   const [areas, setAreas] = useState([]);
+
+  // Debug logging
+  useEffect(() => {
+    console.log('ShowFilters state:', showFilters);
+    console.log('Lifestyle filters:', lifestyleFilters);
+  }, [showFilters, lifestyleFilters]);
 
   // Load initial data
   useEffect(() => {
@@ -631,7 +647,7 @@ const PropertyDiscoveryApp = () => {
   // Reload properties when filters change
   useEffect(() => {
     loadProperties();
-  }, [statusFilters, budgetFilters, searchQuery]);
+  }, [lifestyleFilters, budgetFilters, propertyTypeFilters, searchQuery]);
 
   const loadProperties = async () => {
     setLoading(true);
@@ -645,10 +661,32 @@ const PropertyDiscoveryApp = () => {
         filters.search = searchQuery;
       }
       
-      // Status filters
-      const activeStatusFilters = statusFilters.filter(f => f.active);
-      if (activeStatusFilters.length > 0) {
-        filters.status = activeStatusFilters[0].id; // For simplicity, use first active status
+      // Lifestyle filters (filter by areas)
+      const activeLifestyleFilters = lifestyleFilters.filter(f => f.active);
+      if (activeLifestyleFilters.length > 0) {
+        // Get all areas that match active lifestyle filters
+        const lifestyleAreas = new Set();
+        activeLifestyleFilters.forEach(filter => {
+          filter.areas.forEach(area => lifestyleAreas.add(area));
+        });
+        
+        // For now, we'll load all and filter client-side
+        // In a real app, we'd want the backend to support multiple area filtering
+        filters._lifestyle_areas = Array.from(lifestyleAreas);
+      }
+      
+      // Property type filters
+      const activeTypeFilters = propertyTypeFilters.filter(f => f.active);
+      if (activeTypeFilters.length > 0) {
+        if (activeTypeFilters.length === 1) {
+          const typeFilter = activeTypeFilters[0];
+          if (typeFilter.type) {
+            filters.property_type = typeFilter.type;
+          } else if (typeFilter.search) {
+            filters.search = (filters.search ? filters.search + ' ' : '') + typeFilter.search;
+          }
+        }
+        // If multiple type filters, we'd need to handle this differently
       }
       
       // Budget filters
@@ -659,8 +697,19 @@ const PropertyDiscoveryApp = () => {
         if (budgetFilter.value.max_price) filters.max_price = budgetFilter.value.max_price;
       }
       
+      // Get all properties first
       const data = await apiClient.getProperties(filters);
-      setProperties(data);
+      
+      // Client-side filtering for lifestyle areas (temporary solution)
+      let filteredData = data;
+      if (filters._lifestyle_areas && filters._lifestyle_areas.length > 0) {
+        filteredData = data.filter(property => {
+          const normalizedArea = property.area.toLowerCase().replace(' ', '-');
+          return filters._lifestyle_areas.includes(normalizedArea);
+        });
+      }
+      
+      setProperties(filteredData);
     } catch (err) {
       setError(`Failed to load properties: ${err.message}`);
       console.error('Error loading properties:', err);
@@ -700,11 +749,20 @@ const PropertyDiscoveryApp = () => {
     setCompareList(prev => prev.filter(p => p.id !== propertyId));
   };
 
-  const toggleStatusFilter = (filterId) => {
-    setStatusFilters(prev => 
+  const toggleLifestyleFilter = (filterId) => {
+    setLifestyleFilters(prev => 
       prev.map(filter => ({
         ...filter,
-        active: filter.id === filterId ? !filter.active : false // Only one status at a time
+        active: filter.id === filterId ? !filter.active : filter.active
+      }))
+    );
+  };
+
+  const togglePropertyTypeFilter = (filterId) => {
+    setPropertyTypeFilters(prev => 
+      prev.map(filter => ({
+        ...filter,
+        active: filter.id === filterId ? !filter.active : false // Only one type at a time
       }))
     );
   };
@@ -791,19 +849,30 @@ const PropertyDiscoveryApp = () => {
         {showFilters && (
           <div className="border-t bg-white px-4 py-4">
             <div className="max-w-md mx-auto">
-              <h3 className="font-medium text-gray-900 mb-3">Status</h3>
-              <div className="flex space-x-2 overflow-x-auto pb-2 mb-4">
-                {statusFilters.map(filter => (
+              <h3 className="font-medium text-gray-900 mb-3">Lifestyle</h3>
+              <div className="flex flex-wrap gap-2 mb-4">
+                {lifestyleFilters.map(filter => (
                   <FilterChip 
                     key={filter.id} 
                     filter={filter} 
-                    onToggle={toggleStatusFilter} 
+                    onToggle={toggleLifestyleFilter} 
+                  />
+                ))}
+              </div>
+              
+              <h3 className="font-medium text-gray-900 mb-3">Property Type</h3>
+              <div className="flex flex-wrap gap-2 mb-4">
+                {propertyTypeFilters.map(filter => (
+                  <FilterChip 
+                    key={filter.id} 
+                    filter={filter} 
+                    onToggle={togglePropertyTypeFilter} 
                   />
                 ))}
               </div>
               
               <h3 className="font-medium text-gray-900 mb-3">Budget</h3>
-              <div className="flex space-x-2 overflow-x-auto pb-2">
+              <div className="flex flex-wrap gap-2">
                 {budgetFilters.map(filter => (
                   <FilterChip 
                     key={filter.id} 
@@ -812,6 +881,24 @@ const PropertyDiscoveryApp = () => {
                   />
                 ))}
               </div>
+              
+              {/* Show active filter summary */}
+              {(lifestyleFilters.some(f => f.active) || 
+                budgetFilters.some(f => f.active) || 
+                propertyTypeFilters.some(f => f.active)) && (
+                <div className="mt-4 pt-4 border-t">
+                  <button
+                    onClick={() => {
+                      setLifestyleFilters(LIFESTYLE_FILTERS);
+                      setBudgetFilters(BUDGET_FILTERS);
+                      setPropertyTypeFilters(PROPERTY_TYPE_FILTERS);
+                    }}
+                    className="text-sm text-blue-600 hover:text-blue-700"
+                  >
+                    Clear all filters
+                  </button>
+                </div>
+              )}
             </div>
           </div>
         )}
